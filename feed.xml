@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Victor Chun — Writing</title>
+    <link>https://victory-c.github.io/writing</link>
+    <description>Personal site of Victor Chun — ML pipelines, security engineering, games, endurance training, and writing. Every claim backed by a number.</description>
+    <language>en</language>
+    <item>
+      <title>Shipping NutriScan stage by stage</title>
+      <link>https://victory-c.github.io/writing/shipping-nutriscan</link>
+      <guid isPermaLink="true">https://victory-c.github.io/writing/shipping-nutriscan</guid>
+      <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Build log: what it took to get a food-photo → micronutrient pipeline through its first two stages — champion checkpoints, calibration, and a week-long fight with a broken GPU node.</description>
+    </item>
+  </channel>
+</rss>
