@@ -1,0 +1,15 @@
+<svg viewBox="0 0 1200 600" xmlns="http://www.w3.org/2000/svg" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">
+<rect width="1200" height="600" fill="#1b1a17"/>
+<circle cx="34" cy="30" r="8" fill="#ff5f56"/><circle cx="60" cy="30" r="8" fill="#ffbd2e"/><circle cx="86" cy="30" r="8" fill="#27c93f"/>
+<text x="40" y="96" font-size="24" fill="#c5c8c6"><tspan fill="#e0a43a">$</tspan> gh pr list -R Taxuspt/garmin_mcp --author victory-c --state merged</text>
+<text x="40" y="150" font-size="22"><tspan fill="#27c93f">✓ merged</tspan><tspan fill="#8a8578" dx="14">#468</tspan><tspan fill="#e8e4da" dx="14">fix(responses): correct challenge, GPX, and gear results</tspan></text>
+<text x="40" y="194" font-size="22"><tspan fill="#27c93f">✓ merged</tspan><tspan fill="#8a8578" dx="14">#460</tspan><tspan fill="#e8e4da" dx="14">fix(analysis): retain cycling data and correct power summaries</tspan></text>
+<text x="40" y="238" font-size="22"><tspan fill="#27c93f">✓ merged</tspan><tspan fill="#8a8578" dx="14">#466</tspan><tspan fill="#e8e4da" dx="14">fix(nutrition): preview food deletions before confirmation</tspan></text>
+<text x="40" y="282" font-size="22"><tspan fill="#27c93f">✓ merged</tspan><tspan fill="#8a8578" dx="14">#452</tspan><tspan fill="#e8e4da" dx="14">fix(nutrition): report partial upserts and page food lookup</tspan></text>
+<text x="40" y="326" font-size="22"><tspan fill="#27c93f">✓ merged</tspan><tspan fill="#8a8578" dx="14">#472</tspan><tspan fill="#e8e4da" dx="14">fix(auth): reserve server stdin and preserve login diagnostics</tspan></text>
+<text x="40" y="370" font-size="22"><tspan fill="#27c93f">✓ merged</tspan><tspan fill="#8a8578" dx="14">#456</tspan><tspan fill="#e8e4da" dx="14">fix(server): classify Garmin HTTP failures before adding hints</tspan></text>
+<text x="40" y="414" font-size="22"><tspan fill="#27c93f">✓ merged</tspan><tspan fill="#8a8578" dx="14">#439</tspan><tspan fill="#e8e4da" dx="14">fix(analysis): use the latest weigh-in within 90 days for W/kg</tspan></text>
+<text x="40" y="458" font-size="22"><tspan fill="#27c93f">✓ merged</tspan><tspan fill="#8a8578" dx="14">#432</tspan><tspan fill="#e8e4da" dx="14">fix(challenges): report the date each personal record was set</tspan></text>
+<text x="40" y="502" font-size="22"><tspan fill="#27c93f">✓ merged</tspan><tspan fill="#8a8578" dx="14">#416</tspan><tspan fill="#e8e4da" dx="14">test: deselect live e2e tests unless -m e2e is given</tspan></text>
+<text x="40" y="554" font-size="22" fill="#e0a43a">… 49 merged pull requests</text>
+</svg>
